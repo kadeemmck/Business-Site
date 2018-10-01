@@ -1,0 +1,67 @@
+
+.jumbotron {
+          color: ghostwhite;
+          text-align: center;
+          background-color: goldenrod
+         
+
+}
+h1{
+text-shadow: 2px 2px rgb(9, 9, 10);
+color: rgb(226, 43, 43);
+font: 50%;
+}
+.col-sm{
+    border: black;
+    color: rgb(219, 81, 17);
+    text-align: center;
+    background-color: goldenrod;
+    height: 240px;
+    /* width:50%; */
+    grid-auto-columns: auto auto auto; 
+      display:grid;
+    
+   
+
+}
+.container{
+  
+  /* grid-template-columns: auto auto auto;
+  grid-gap: 30px; */
+    
+}
+
+.carousel{
+    height: 50%;
+    widows: 50%;
+    border: 50%; 
+    align-self: auto;
+    margin-top: 50px;
+}
+
+
+#myHeader{
+
+    color:black;
+    text-align: center;
+
+}
+
+#para{
+
+    background-color: ghostwhite;
+    color: red;
+}
+   #contact{
+
+    text-align: center;
+    color: goldenrod;
+    border: double;
+   }
+
+/* }
+.col-sm-12{
+height:50px;
+
+} *
+
